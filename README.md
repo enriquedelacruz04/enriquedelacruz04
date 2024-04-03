@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @enriquedelacruz04
 
-[![My Skills](https://skillicons.dev/icons?i=js,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,gcp)](https://skillicons.dev)
 
 
 
