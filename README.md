@@ -5,6 +5,7 @@
 
 
 ![React](https://techstack-generator.vercel.app/react-icon.svg){width="200" height="200"}
+<img src="https://pbs.twimg.com/media/EiAuAS8VoAA1-4T?format=jpg&name=large" alt="JuveR" width="300px">
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
