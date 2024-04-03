@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @enriquedelacruz04
 
-[![My Skills](https://skillicons.dev/icons?i=js,react,redux,remix)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react)](https://skillicons.dev)
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
