@@ -5,7 +5,7 @@
 
 
 
-<img src="ttps://techstack-generator.vercel.app/react-icon.svg" alt="React" width="300px">
+<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="300px">
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
